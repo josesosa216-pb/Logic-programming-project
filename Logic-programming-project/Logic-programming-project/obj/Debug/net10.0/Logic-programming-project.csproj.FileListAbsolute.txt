@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\Logic-programming-project\Logic-programming-project\bin\Debug\net10.0\Logic-programming-project.exe
+C:\Users\Acer\Documents\Logic-programming-project\Logic-programming-project\bin\Debug\net10.0\Logic-programming-project.deps.json
+C:\Users\Acer\Documents\Logic-programming-project\Logic-programming-project\bin\Debug\net10.0\Logic-programming-project.runtimeconfig.json
+C:\Users\Acer\Documents\Logic-programming-project\Logic-programming-project\bin\Debug\net10.0\Logic-programming-project.dll
+C:\Users\Acer\Documents\Logic-programming-project\Logic-programming-project\bin\Debug\net10.0\Logic-programming-project.pdb
+C:\Users\Acer\Documents\Logic-programming-project\Logic-programming-project\obj\Debug\net10.0\Logic-programming-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\Logic-programming-project\Logic-programming-project\obj\Debug\net10.0\Logic-programming-project.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Logic-programming-project\Logic-programming-project\obj\Debug\net10.0\Logic-programming-project.AssemblyInfo.cs
+C:\Users\Acer\Documents\Logic-programming-project\Logic-programming-project\obj\Debug\net10.0\Logic-programming-project.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Logic-programming-project\Logic-programming-project\obj\Debug\net10.0\Logic-programming-project.sourcelink.json
+C:\Users\Acer\Documents\Logic-programming-project\Logic-programming-project\obj\Debug\net10.0\Logic-programming-project.dll
+C:\Users\Acer\Documents\Logic-programming-project\Logic-programming-project\obj\Debug\net10.0\refint\Logic-programming-project.dll
+C:\Users\Acer\Documents\Logic-programming-project\Logic-programming-project\obj\Debug\net10.0\Logic-programming-project.pdb
+C:\Users\Acer\Documents\Logic-programming-project\Logic-programming-project\obj\Debug\net10.0\Logic-programming-project.genruntimeconfig.cache
+C:\Users\Acer\Documents\Logic-programming-project\Logic-programming-project\obj\Debug\net10.0\ref\Logic-programming-project.dll
