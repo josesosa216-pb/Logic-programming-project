@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Documents\\Logic-programming-project\\Logic-programming-project\\Logic-programming-project.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Documents\\Proyecto\\Logic-programming-project\\Logic-programming-project\\Logic-programming-project.csproj",
       "projectName": "Logic-programming-project",
-      "projectPath": "C:\\Users\\Acer\\Documents\\Logic-programming-project\\Logic-programming-project\\Logic-programming-project.csproj",
+      "projectPath": "C:\\Users\\Acer\\Documents\\Proyecto\\Logic-programming-project\\Logic-programming-project\\Logic-programming-project.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Documents\\Logic-programming-project\\Logic-programming-project\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Documents\\Proyecto\\Logic-programming-project\\Logic-programming-project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
