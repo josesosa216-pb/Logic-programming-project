@@ -33,7 +33,7 @@ A diferencia de la Entrega 1 (que solo procesaba un pedido), en esta versión el
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Aplicar estructuras vistas en clase como:
 
@@ -57,7 +57,7 @@ El sistema tiene un menú:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 José Miguel Sosa Cartagena
 
