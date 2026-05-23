@@ -63,3 +63,45 @@ José Miguel Sosa Cartagena
 
 ---
 
+***************************************************************************
+
+# Sistema de Clasificación de Pedidos – Entrega 3
+
+## Descripción
+
+Este proyecto es un programa en consola desarrollado en C# que permite registrar pedidos y calcular costos de envío según diferentes condiciones.
+
+En esta tercera entrega, el código fue reorganizado utilizando funciones para separar la lógica del programa, las entradas de datos y la salida de información.
+
+---
+
+## Objetivo
+
+Aplicar conceptos vistos en clase como:
+
+- Métodos / funciones
+- Programación modular
+- Validaciones
+- Listas
+- Condicionales
+- Documentación XML
+
+El sistema permite:
+
+1. Registrar pedidos  
+2. Ver registros almacenados  
+3. Salir del sistema  
+
+---
+
+## Nota
+
+- Los datos solo se almacenan mientras el programa está en ejecución
+- El sistema valida entradas inválidas
+- Se aplican costos adicionales para envíos al exterior
+
+---
+
+## Autor
+
+José Miguel Sosa Cartagena
